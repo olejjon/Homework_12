@@ -1,0 +1,84 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:17:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:17:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:17:39] "GET /add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:17:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Картинка не загружена. Расширение: xlsx
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:17:54] "POST /upload_post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:17:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:17:54] "[33mGET /uploads/images/999.xlsx HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:29:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:29:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:29:07] "GET /add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:29:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Картинка не загружена. Расширение: xlsx
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:29:10] "POST /upload_post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:29:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:29:10] "[33mGET /uploads/images/999.xlsx HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:31:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:31:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:31:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:31:51] "GET /add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:31:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:01] "POST /upload_post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:01] "GET /uploads/images/Безымвыфвфывянный.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрос: 
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:08] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:08] "GET /uploads/images/qqq.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:08] "GET /uploads/images/rc.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:08] "GET /uploads/images/olejjon_123_None_b0f50bc6-ef3f-4142-b104-872ab41b2262.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:08] "GET /uploads/images/39413-kompyuternye-stoly.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:08] "GET /uploads/images/olejjon_123_None_7d50b79e-2daa-43e6-a816-fb4eab33339a.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:08] "GET /uploads/images/111.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:08] "GET /uploads/images/3.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:32:08] "[36mGET /uploads/images/Безымвыфвфывянный.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:35:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2022 11:35:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
